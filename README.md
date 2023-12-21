@@ -1,1 +1,3 @@
 # aryanshokeen
+This is my first Git Repository
+Author - Aryan Singh
